@@ -7,11 +7,7 @@ license:             MIT
 license-file:        LICENSE
 author:              GrandArchTemplar
 maintainer:          GrandArchTemplar@gmail.com
-<<<<<<< HEAD
-copyright:           Copyright (c) 2018 GrandArchTemplar
-=======
 copyright:           2018 GrandArchTemplar
->>>>>>> 0a74c7b2d397a4fa917c7c0176f4ede95bab6a58
 category:            Web
 build-type:          Simple
 cabal-version:       >=1.10
